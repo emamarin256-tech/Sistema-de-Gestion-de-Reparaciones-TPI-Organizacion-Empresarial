@@ -6,6 +6,14 @@ Este repositorio contiene la documentación técnica del Trabajo Práctico Integ
 
 El proyecto busca facilitar el registro, la organización y el seguimiento de los trabajos de reparación, integrando los contenidos desarrollados durante las distintas etapas del trabajo.
 
+## Alcance del sistema
+
+El sistema está orientado a la gestión de reparaciones y al seguimiento de los trabajos registrados. Su desarrollo contempla funcionalidades para organizar la información de las reparaciones y facilitar su consulta.
+
+Asimismo, se incorporó la posibilidad de generar un documento PDF con los datos de una reparación, permitiendo disponer de un registro organizado para su consulta o para compartirlo con el cliente.
+
+El proyecto busca ofrecer una herramienta sencilla que contribuya a mejorar la organización de las tareas y la disponibilidad de la información.
+
 ## Datos del alumno
 - **Alumno:** Emanuel Marín
 - **Docente Titular:** Gabriela Martínez
